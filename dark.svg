@@ -337,7 +337,7 @@
       </text>
       <text x="620" y="228" font-family="'Courier New', monospace" font-size="12" fill="#F8FAFC" opacity="0">
         <animate attributeName="opacity" values="0;1" begin="1.8s" dur="0.3s" fill="freeze"/>
-        Kalyani, West Bengal, India
+        Kankinara, West Bengal, India
       </text>
 
       <!-- Education -->
@@ -357,7 +357,7 @@
       </text>
       <text x="620" y="276" font-family="'Courier New', monospace" font-size="12" fill="#F8FAFC" opacity="0">
         <animate attributeName="opacity" values="0;1" begin="2.4s" dur="0.3s" fill="freeze"/>
-        DETECTOR AI · AI Engineer OS
+        DETECTOR AI · JIVAN AI
       </text>
 
       <!-- Portfolio -->
