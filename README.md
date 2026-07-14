@@ -1,16 +1,61 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Gocodein/Gocodein/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Gocodein/Gocodein/main/light.svg">
+  <img
+    src="https://raw.githubusercontent.com/Gocodein/Gocodein/main/dark.svg"
+    alt="Sagar Shaw — AI/ML Engineer · Full Stack Developer"
+    width="100%"
+  />
+</picture>
 
-<!--
-**Gocodein/Gocodein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gocodein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22d3ee&icon_color=7c3aed&text_color=94a3b8"
+    height="165"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gocodein&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22d3ee&text_color=94a3b8"
+    height="165"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 STREAK STATS                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Gocodein&theme=tokyonight&hide_border=true&background=030712&ring=7c3aed&fire=22d3ee&currStreakLabel=10b981"
+    alt="GitHub Streak"
+    width="55%"
+  />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              CONTRIBUTION SNAKE                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Gocodein/Gocodein/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
+</div>
