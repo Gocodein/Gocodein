@@ -335,7 +335,7 @@
       </text>
       <text x="620" y="300" font-family="'Courier New', monospace" font-size="12" fill="#2563eb" opacity="0">
         <animate attributeName="opacity" values="0;1" begin="2.7s" dur="0.3s" fill="freeze"/>
-        github.com/Gocodein
+        https://portfolio-lac-eta-23.vercel.app/
       </text>
 
       <text x="480" y="324" font-family="'Courier New', monospace" font-size="12" fill="#475569" opacity="0">
