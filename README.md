@@ -17,10 +17,21 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gocodein&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gocodein&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22d3ee&icon_color=7c3aed&text_color=94a3b8"
+    height="165"
+    alt="GitHub Stats"
+  />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gocodein&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gocodein&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22d3ee&text_color=94a3b8"
+    height="165"
+    alt="Top Languages"
+  />
+
 </div>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
