@@ -174,7 +174,7 @@
       <g opacity="0"><animate attributeName="opacity" values="0;1" begin="3.6s" dur="0.4s" fill="freeze"/>
         <a href="https://github.com/Gocodein" target="_blank"><rect x="480" y="475" width="100" height="32" rx="16" fill="rgba(15,23,42,0.04)" stroke="rgba(15,23,42,0.12)" stroke-width="1"/><text x="530" y="495" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#0F172A">⌥ GitHub</text></a>
         <a href="https://www.linkedin.com/in/sagar-shaw-79701138a/" target="_blank"><rect x="590" y="475" width="108" height="32" rx="16" fill="rgba(6,182,212,0.06)" stroke="rgba(6,182,212,0.20)" stroke-width="1"/><text x="644" y="495" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#0e7490">in LinkedIn</text></a>
-        <a href="https://x.com/Gocodein" target="_blank"><rect x="708" y="475" width="90"  height="32" rx="16" fill="rgba(37,99,235,0.06)" stroke="rgba(37,99,235,0.20)" stroke-width="1"/><text x="753" y="495" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#1d4ed8">𝕏 Twitter</text></a>
+        <a href="https://x.com" target="_blank"><rect x="708" y="475" width="90"  height="32" rx="16" fill="rgba(37,99,235,0.06)" stroke="rgba(37,99,235,0.20)" stroke-width="1"/><text x="753" y="495" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#1d4ed8">𝕏 Twitter</text></a>
         <a href="https://portfolio-lac-eta-23.vercel.app/" target="_blank"><rect x="808" y="475" width="108" height="32" rx="16" fill="rgba(16,185,129,0.06)" stroke="rgba(16,185,129,0.20)" stroke-width="1"/><text x="862" y="495" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#047857">⬡ Portfolio</text></a>
       </g>
 
